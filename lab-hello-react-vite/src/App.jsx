@@ -1,12 +1,13 @@
 // src/App.jsx
 import './App.css';
+//Importing the downloaded assets
 import IronHackLogo from './assets/ironhack-logo-xs.png';
 import BurgerMenu from './assets/menu-top-xs.png';
 import Declarative from './assets/icon1.png';
 import Components from './assets/icon2.png';
 import SingleWay from './assets/icon3.png';
 import JSX from './assets/icon4.png';
-
+//Preparing the app and html od the landing page
 function App() {
   return (
     <div className="App">
